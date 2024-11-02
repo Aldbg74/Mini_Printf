@@ -10,7 +10,8 @@ Recode the basic flag of printf <br>
 As the people at epitech know, the project is corrected by the Mouli, of which here are the results : <br>
 - 100% <br>
 <br>
-> [!CAUTION]  
+
+> [!CAUTION]
 > ⚠️ Warning to Epitech Students ⚠️ <br>
 Please note that copying and submitting the code in this repository as your own for Epitech projects is a violation of the school's academic integrity policy. <br>
 Doing so can result in severe penalties such as a grade of -42 or even -84, as well as potential disciplinary actions. <br> 
