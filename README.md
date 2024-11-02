@@ -6,12 +6,10 @@ MiniPrintf will be usefull for the next step : Recode the Printf ! <br>
 <H1>🎯 GOALS 🎯</H1>
 Recode the basic flag of printf <br>
 <br>
-<br>
 <H1>🤖 MOULINETTE RESULT 🤖</H1>
 As the people at epitech know, the project is corrected by the Mouli, of which here are the results : <br>
 - 100% <br>
 <br>
-
 > [!CAUTION]  
 > ⚠️ Warning to Epitech Students ⚠️ <br>
 Please note that copying and submitting the code in this repository as your own for Epitech projects is a violation of the school's academic integrity policy. <br>
